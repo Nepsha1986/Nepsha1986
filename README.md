@@ -9,6 +9,7 @@ I also own [gift-idea.co](https://gift-idea.co), curating and presenting unique 
 
 ## Technologies and tools
 ![React](https://img.shields.io/badge/React-087EA5?style=for-the-badge&logo=react&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML/CSS-purple?style=for-the-badge&logo=html5&logoColor=fff)
