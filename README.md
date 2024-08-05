@@ -4,8 +4,7 @@ I am a highly skilled frontend developer with a passion for crafting seamless an
 
 Experienced in diverse web technologies, I creatively transform design mockups into responsive websites. I specialize in optimizing site performance, and turning ideas into user-friendly interfaces. Committed to staying current with industry trends, I deliver high-quality code.
 
-I also own [gift-idea.co](https://gift-idea.co), curating and presenting unique gift ideas to showcase my passion for creating engaging online experiences.
-
+In addition to [gift-idea.co](https://gift-idea.co), where I curate and present unique gift ideas, I am also the owner of [aquajoy.club](https://aquajoy.club/). This website serves as a comprehensive knowledge base for freshwater aquarium fish.
 
 ## Technologies and tools
 ![React](https://img.shields.io/badge/React-087EA5?style=for-the-badge&logo=react&logoColor=fff)
